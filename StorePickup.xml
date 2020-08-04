@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SuiteA"  > 
+<!-- suite name="Suite Name" AND Please remember all the tag names should be lowered case otherwise the sytem will throw an error --> 
+<listeners>
+<listener class-name="utility.JyperionListener" />
+</listeners>
+<test name="StorePickupCases" allow-return-values="true">
+
+<classes>
+<!-- Header Test Cases -->
+           <class name="revampTestCase.SS_CartPage_Public_verify_Default_StorePickup_Functionality" />
+             <class name="revampTestCase.SS_CartPage_Public_Verify_Pincode_Navigation_From_PDP_To_CheckoutPage" />
+             <class name="revampTestCase.SS_CartPage_Public_Verify_Pincode_PopulatedFrom_PDP_To_CartPage_And_ChangePincode" />
+             <class name="revampTestCase.SS_CartPage_Public_Verify_StoreSelected_From_PDP_To_CheckoutPage" />
+             <class name="revampTestCase.SS_Checkout_Private_PickupStore_OrderUsingEGV" />
+             <class name="revampTestCase.SS_Checkout_Public_Verify_StorePickup_HappyPath_CheckOut" />
+             <class name="revampTestCase.SS_PdpPage_Private_Verify_ExpressStorePickup_DeliveryOptions" />            
+            
+           </classes>
+  </test>
+                                                                                                                           
+                                                                                  
+</suite>

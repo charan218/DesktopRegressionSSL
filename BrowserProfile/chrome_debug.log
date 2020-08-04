@@ -1,0 +1,196 @@
+[13716:13684:0508/135928.284:WARNING:CONSOLE(0)] "The SSL certificate used to load resources from https://www.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source:  (0)
+[13716:13684:0508/135928.325:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://www.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:12532:0508/135928.404:WARNING:spdy_session.cc(2914)] Received HEADERS for invalid stream 3
+[13716:13684:0508/135928.464:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://sslimages4.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135928.464:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://prodstatic.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135928.631:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://sslimages2.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:12532:0508/135928.663:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+[13716:13684:0508/135928.768:INFO:CONSOLE(0)] "[DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135928.768:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135928.768:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135928.768:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135928.896:INFO:CONSOLE(11)] "Uncaught SyntaxError: Unexpected number", source: https://www.shoppersstop.com/ (11)
+[13716:12532:0508/135929.020:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135929.091:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135929.091:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135929.281:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135929.283:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135929.301:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135929.301:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:13684:0508/135929.303:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://sslimages5.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:12532:0508/135929.350:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:13684:0508/135929.428:INFO:CONSOLE(0)] "Uncaught (in promise) TypeError: Failed to register a ServiceWorker: A bad HTTP response code (404) was received when fetching the script.", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135929.495:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://sslimages3.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135929.495:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://sslimages1.shoppersstop.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:12532:0508/135930.305:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135930.307:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135930.573:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135930.669:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:12532:0508/135930.673:ERROR:ssl_client_socket_impl.cc(1084)] handshake failed; returned -1, SSL error code 1, net_error -101
+[13716:13684:0508/135930.681:INFO:CONSOLE(0)] "The SSL certificate used to load resources from https://tracking.sokrati.com will be distrusted in M70. Once distrusted, users will be prevented from loading these resources. See https://g.co/chrome/symantecpkicerts for more information.", source: https://www.shoppersstop.com/ (0)
+[13716:13684:0508/135935.103:INFO:CONSOLE(7)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (7)
+[13716:12532:0508/135944.267:ERROR:shader_disk_cache.cc(238)] Failed to create shader cache entry: -2
+[13716:13684:0508/140030.722:INFO:CONSOLE(7)] "SW registered", source: https://www.google.com/_/chrome/newtab?ie=UTF-8 (7)
+[13716:12532:0508/140125.503:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140125.503:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140125.503:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140125.503:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140125.503:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140125.503:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140325.504:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140325.505:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140325.505:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140325.505:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140325.506:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140325.506:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140525.522:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140525.522:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140525.522:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140525.522:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140525.522:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140525.522:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140725.525:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140725.525:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140725.525:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140725.525:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140725.525:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140725.525:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140925.526:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140925.526:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140925.527:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140925.527:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140925.527:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/140925.527:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141125.529:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141125.529:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141125.530:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141125.530:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141125.530:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141125.530:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141325.532:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141325.532:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141325.532:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141325.532:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141325.532:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141325.533:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141525.535:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141525.536:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141525.536:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141525.536:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141525.536:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141525.537:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141725.538:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141725.538:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141725.539:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141725.539:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141725.539:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141725.539:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141925.541:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141925.541:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141925.541:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141925.542:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141925.542:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/141925.542:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142125.543:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142125.543:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142125.543:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142125.544:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142125.544:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142125.544:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142325.545:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142325.545:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142325.545:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142325.546:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142325.546:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142325.546:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142525.548:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142525.548:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142525.548:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142525.548:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142525.548:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142525.549:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142725.549:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142725.549:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142725.550:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142725.550:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142725.550:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142725.550:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142925.551:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142925.552:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142925.552:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142925.552:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142925.552:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/142925.552:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143125.554:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143125.554:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143125.554:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143125.555:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143125.555:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143125.555:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143325.557:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143325.557:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143325.557:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143325.557:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143325.557:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143325.557:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143525.559:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143525.559:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143525.559:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143525.560:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143525.560:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143525.560:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143725.562:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143725.562:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143725.562:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143725.562:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143725.563:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143725.563:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143925.564:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143925.564:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143925.564:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143925.564:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143925.565:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/143925.565:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144125.567:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144125.567:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144125.567:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144125.567:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144125.567:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144125.567:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144325.569:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144325.569:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144325.570:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144325.570:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144325.570:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144325.570:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144525.573:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144525.573:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144525.573:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144525.573:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144525.574:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144525.574:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144725.575:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144725.575:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144725.575:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144725.575:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144725.576:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144725.576:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144925.577:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144925.577:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144925.577:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144925.578:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144925.578:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/144925.578:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145125.580:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145125.580:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145125.580:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145125.580:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145125.580:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145125.581:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145325.582:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145325.582:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145325.582:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145325.582:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145325.583:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:12532:0508/145325.583:ERROR:process_metrics.cc(105)] NOT IMPLEMENTED
+[13716:13684:0508/145458.970:INFO:chrome_cryptauth_service.cc(222)] Profile is not authenticated yet; waiting before starting CryptAuth managers.

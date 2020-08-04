@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Failed suite [Default suite]]">
+  <test thread-count="5" name="Default test(failed)(failed)">
+    <classes>
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaFooter">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaFooter -->
+    </classes>
+  </test> <!-- Default test(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Default suite]] -->

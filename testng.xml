@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+<listeners>
+<listener class-name="utility.JyperionListener" />
+</listeners>
+  <test thread-count="1" name="Test">
+    <classes>
+     
+       <class name="revampTestCase.SS_Account_Registration_Functionality"/> 
+     <class name="revampTestCase.SS_Account_Registration_With_Social_Acc_Functionality"/> 
+      <class name="revampTestCase.SS_Brands_Verify_shoopers_stop_all_Brands_link_page"/>
+      <class name="revampTestCase.SS_CartPage_Private_Verify_Cart_Page_Default_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Private_Verify_CartPage_ApplyCoupon_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Private_Verify_CartPage_FromYourWishlist_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Private_Verify_CartPage_MoveToWishlist_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Private_Verify_UpdateCart_GiftMessage_DeliveryPincode_RemoveCartItem_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Cart_Page_Default_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Public_verify_Default_StorePickup_Functionality"/>
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Footer_DownLoadApp_Followus"/>
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Pincode_Navigation_From_PDP_To_CheckoutPage"/>
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Pincode_PopulatedFrom_PDP_To_CartPage_And_ChangePincode"/>
+      <class name="revampTestCase.SS_CartPage_Public_Verify_StoreSelected_From_PDP_To_CheckoutPage"/>
+      <class name="revampTestCase.SS_CartPage_Public_Verify_UpdateCart_GiftMessage_DeliveryPincode_RemoveCartItem_Functionality"/>
+      <class name="revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingCod"/>
+      <class name="revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingEGV"/>
+      <class name="revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingNetBanking"/>
+      <class name="revampTestCase.SS_Checkout_Private_Add_New_Address_To_Navigate_Till_Payment_Page"/>
+      <class name="revampTestCase.SS_Checkout_Private_Coupon_Code_Functionality"/>
+      <class name="revampTestCase.SS_Checkout_Private_LoginAt_Checkout_To_Navigate_To_Payment_Page"/>
+      <class name="revampTestCase.SS_Checkout_Private_PickupStore_OrderUsingEGV"/>
+      <class name="revampTestCase.SS_Checkout_Private_Verify_Credit_Card_Scenario"/>
+      <class name="revampTestCase.SS_Checkout_Private_Verify_Debit_Card_Scenario"/>
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_EGV_Functionality"/>
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_GiftCard_Functionality"/>
+      <class name="revampTestCase.SS_Checkout_Private_Verify_Happy_Path_CheckOut"/>
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_NetBanking_Functionality"/>
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_Signout_Flow_And_Logo"/>
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_Wallets_Functionality"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_All_Payment_Options_And_Its_Attributes"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Credit_Card_Scenario"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Debit_Card_Scenario"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Direct_Checkout_From_MiniCart"/>
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_EGV_Functionality"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Error_Message_For_Empty_Delivery_Address"/>
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_GiftCard_Functionality"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Happy_Path_CheckOut"/>
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_NetBanking_Functionality"/>
+      <class name="revampTestCase.SS_checkout_public_verify_order_using_cod_Without_OTP"/>
+      <class name="revampTestCase.SS_Checkout_Public_Verify_StorePickup_HappyPath_CheckOut"/>
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_Wallets_Functionality"/>
+      <class name="revampTestCase.SS_CheckOut_RegisterAtCheckout_And_Validate_Default_Address_Addition"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_GuestUser"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_Via_Header"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaFooter"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaMyAccountsPage"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_GuestUser"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_ViaFooter"/>
+      <class name="revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_ViaMyAccountsPage"/>
+      <class name="revampTestCase.SS_Footer_CookieAndPrivacyPolicy_Verify_The_Link_Is_Clickable"/>
+      <class name="revampTestCase.SS_Footer_CopyrightsAllRightsReserved_The_Text_Is_Present"/>
+      <class name="revampTestCase.SS_Footer_CustomerRelated_Verify_All_Links_Are_Clickable"/>
+      <class name="revampTestCase.SS_Footer_DelightfulPrograms_ReachUs_And_FollowUs"/>
+      <class name="revampTestCase.SS_Footer_Firstcitizen_Verify_All_Links_Are_Clickable"/>
+      <class name="revampTestCase.SS_Footer_FirstCitizenRelated_Verify_All_Links_Are_Clickable"/>
+      <class name="revampTestCase.SS_Footer_PolicyRelated_Verify_All_Links_Are_Clickable"/>
+      <class name="revampTestCase.SS_Footer_StoreAndSiteRelated_Verify_All_Links_Are_Clickable"/>
+      <class name="revampTestCase.SS_Footer_TermsOfUse_Verify_The_Link_Is_Clickable"/>
+      <class name="revampTestCase.SS_FOOTER_VERIFY_EXPRESSTORE_And_FAQ"/>
+      <class name="revampTestCase.SS_Forgot_Password"/>
+      <class name="revampTestCase.SS_Header_Private_Verify_WishlistAlert_Functionality"/>
+      <class name="revampTestCase.SS_Header_Public_Verify_StoreLocatore_Link_Functionality"/>
+      <class name="revampTestCase.SS_Header_Public_Verify_TrackOrder_Link_Functionality"/>
+      <class name="revampTestCase.SS_HomePage_HeaderValidation"/>
+      <class name="revampTestCase.SS_HomePage_Public_Footer_ShopAnytimeAnywhere_DescriptionLinks_Verify"/>
+      <class name="revampTestCase.SS_HomePage_Public_Verify_MainMenu_ToolTip"/>
+      <class name="revampTestCase.SS_HomePage_Public_Verify_NewsLetterSubscribe_Functionality"/>
+      <class name="revampTestCase.SS_HomePage_Verify_Profile_Functionality"/>
+      <class name="revampTestCase.SS_MacBeautyServices_Booking"/>
+      <class name="revampTestCase.SS_MyAccount_NewsLetterAndSubscription"/>
+      <class name="revampTestCase.SS_MyAccount_RecentOrder"/>
+      <class name="revampTestCase.SS_MyAccount_Verify_All_Menu"/>
+      <class name="revampTestCase.SS_MyAccount_Verify_Wishlist_Functionality"/>
+      <class name="revampTestCase.SS_Order_Confirmation_Verify_Complete_Your_Profile_Popup"/>
+      <class name="revampTestCase.SS_Order_OrderDetailsPage"/>
+      <class name="revampTestCase.SS_Order_OrderHistory"/>
+      <class name="revampTestCase.SS_PDP_Private_Verify_DeliveryOptions_SocialShareOption"/>
+      <class name="revampTestCase.SS_PDP_Private_Verify_Page_Related_Functional_Validation_Part1"/>
+      <class name="revampTestCase.SS_PDP_Private_Verify_ProductDetails_StyleNotes_BrandInfo_ReturnAndExchange"/>
+      <class name="revampTestCase.SS_PDP_Private_Verify_Review_And_Ratings_Section"/>
+      <class name="revampTestCase.SS_PDP_Private_Verify_WriteAReview_And_AddToWishList"/>
+      <class name="revampTestCase.SS_PDP_Public_Verify_DeliveryOptions_SocialShareOption"/>
+      <class name="revampTestCase.SS_PDP_Public_Verify_Page_Related_Functional_Validation_Part1"/>
+      <class name="revampTestCase.SS_PDP_Verify_FirstCitizen_And_Enroll_Link"/>
+      <class name="revampTestCase.SS_PDP_verify_SizeGuide_And_Calculate_size_Functionality"/>
+      <class name="revampTestCase.SS_PdpPage_Private_Verify_ExpressStorePickup_DeliveryOptions"/>
+      <class name="revampTestCase.SS_PersonalShopper_Booking"/>
+      <class name="revampTestCase.SS_PLP_BreadCrumb_And_DefaultContent"/>
+      <class name="revampTestCase.SS_PLP_Verify_BreadCrumb"/>
+      <class name="revampTestCase.SS_PLP_Verify_Clear_Refinements_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_ClearAll_Refinements_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_DeliveryType_Filter_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_LoadMore_Link_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Department_and_Search_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_DropDown_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_On_Sale_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Brand_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Color_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Price_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Size_Functionality"/>
+      <class name="revampTestCase.SS_PLP_Verify_Promotion_Image_Link"/>
+      <class name="revampTestCase.SS_PLP_Verify_QuickView_Details"/>
+      <class name="revampTestCase.SS_PLP_Verify_Reg_User_Add_Remove_Wishlist"/>
+      <class name="revampTestCase.SS_ProfilePage_AddMultipleAddress"/>
+      <class name="revampTestCase.SS_ProfilePage_Change_Password_Verify_Fields_and_Buttons"/>
+      <class name="revampTestCase.SS_ProfilePage_EditAddress_ChangeDefaultAddress"/>
+      <class name="revampTestCase.SS_ProfilePage_Multiple_Address_Only_SingleDefaultAddress"/>
+      <class name="revampTestCase.SS_Public_Verify_HomePage_Banners"/>
+      <class name="revampTestCase.EmailTrigger"/>
+      
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

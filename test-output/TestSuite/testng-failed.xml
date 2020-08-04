@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]" parallel="methods">
+  <test name="test(failed)" parallel="methods">
+    <classes>
+      <class name="revampTestCase.ParallelExecutionCode">
+        <methods>
+          <include name="executSession1"/>
+        </methods>
+      </class> <!-- revampTestCase.ParallelExecutionCode -->
+    </classes>
+  </test> <!-- test(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

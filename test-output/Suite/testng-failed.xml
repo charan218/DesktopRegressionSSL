@@ -1,0 +1,831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <listeners>
+    <listener class-name="utility.JyperionListener"/>
+  </listeners>
+  <test name="Test(failed)">
+    <classes>
+      <class name="revampTestCase.SS_Footer_CustomerRelated_Verify_All_Links_Are_Clickable">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_CustomerRelated_Verify_All_Links_Are_Clickable -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_Via_Header">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="discover"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_Via_Header -->
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Cart_Page_Default_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_Verify_Cart_Page_Default_Functionality -->
+      <class name="revampTestCase.SS_PLP_Verify_Promotion_Image_Link">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_Promotion_Image_Link -->
+      <class name="revampTestCase.SS_MyAccount_RecentOrder">
+        <methods>
+          <include name="newsLetter"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_MyAccount_RecentOrder -->
+      <class name="revampTestCase.SS_Checkout_Private_Add_New_Address_To_Navigate_Till_Payment_Page">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_Add_New_Address_To_Navigate_Till_Payment_Page -->
+      <class name="revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingNetBanking">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingNetBanking -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Color_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Color_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Private_Verify_CartPage_FromYourWishlist_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Private_Verify_CartPage_FromYourWishlist_Functionality -->
+      <class name="revampTestCase.SS_Brands_Verify_shoopers_stop_all_Brands_link_page">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="verifyShopperStopBrands"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Brands_Verify_shoopers_stop_all_Brands_link_page -->
+      <class name="revampTestCase.SS_PLP_Verify_QuickView_Details">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_QuickView_Details -->
+      <class name="revampTestCase.SS_PLP_Verify_ClearAll_Refinements_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_ClearAll_Refinements_Functionality -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Error_Message_For_Empty_Delivery_Address">
+        <methods>
+          <include name="main"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_Error_Message_For_Empty_Delivery_Address -->
+      <class name="revampTestCase.SS_PDP_Verify_FirstCitizen_And_Enroll_Link">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Verify_FirstCitizen_And_Enroll_Link -->
+      <class name="revampTestCase.SS_MyAccount_Verify_All_Menu">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_MyAccount_Verify_All_Menu -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Price_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Price_Functionality -->
+      <class name="revampTestCase.SS_MyAccount_NewsLetterAndSubscription">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="newsLetter"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_MyAccount_NewsLetterAndSubscription -->
+      <class name="revampTestCase.SS_CartPage_Private_Verify_UpdateCart_GiftMessage_DeliveryPincode_RemoveCartItem_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Private_Verify_UpdateCart_GiftMessage_DeliveryPincode_RemoveCartItem_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Footer_DownLoadApp_Followus">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_Verify_Footer_DownLoadApp_Followus -->
+      <class name="revampTestCase.SS_Checkout_Private_PickupStore_OrderUsingEGV">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_PickupStore_OrderUsingEGV -->
+      <class name="revampTestCase.SS_Order_OrderHistory">
+        <methods>
+          <include name="Profile"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Order_OrderHistory -->
+      <class name="revampTestCase.SS_Footer_StoreAndSiteRelated_Verify_All_Links_Are_Clickable">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_StoreAndSiteRelated_Verify_All_Links_Are_Clickable -->
+      <class name="revampTestCase.SS_checkout_public_verify_order_using_cod_Without_OTP">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_checkout_public_verify_order_using_cod_Without_OTP -->
+      <class name="revampTestCase.SS_Header_Private_Verify_WishlistAlert_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Header_Private_Verify_WishlistAlert_Functionality -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_DropDown_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_DropDown_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Private_Verify_CartPage_ApplyCoupon_Functionality">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Private_Verify_CartPage_ApplyCoupon_Functionality -->
+      <class name="revampTestCase.SS_HomePage_Verify_Profile_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="Profile"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_HomePage_Verify_Profile_Functionality -->
+      <class name="revampTestCase.SS_Account_Registration_With_Social_Acc_Functionality">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Account_Registration_With_Social_Acc_Functionality -->
+      <class name="revampTestCase.SS_HomePage_Public_Footer_ShopAnytimeAnywhere_DescriptionLinks_Verify">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_HomePage_Public_Footer_ShopAnytimeAnywhere_DescriptionLinks_Verify -->
+      <class name="revampTestCase.SS_Order_OrderDetailsPage">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Order_OrderDetailsPage -->
+      <class name="revampTestCase.SS_MyAccount_Verify_Wishlist_Functionality">
+        <methods>
+          <include name="Profile"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_MyAccount_Verify_Wishlist_Functionality -->
+      <class name="revampTestCase.SS_Checkout_Private_LoginAt_Checkout_To_Navigate_To_Payment_Page">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_LoginAt_Checkout_To_Navigate_To_Payment_Page -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_GuestUser">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+          <include name="BeforeSuite"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_GuestUser -->
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_Wallets_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Private_Verify_Wallets_Functionality -->
+      <class name="revampTestCase.SS_PDP_Private_Verify_Review_And_Ratings_Section">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Private_Verify_Review_And_Ratings_Section -->
+      <class name="revampTestCase.SS_Checkout_Private_Verify_Debit_Card_Scenario">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_Verify_Debit_Card_Scenario -->
+      <class name="revampTestCase.SS_Footer_Firstcitizen_Verify_All_Links_Are_Clickable">
+        <methods>
+          <include name="FirstCitizen"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_Firstcitizen_Verify_All_Links_Are_Clickable -->
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Pincode_PopulatedFrom_PDP_To_CartPage_And_ChangePincode">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_Verify_Pincode_PopulatedFrom_PDP_To_CartPage_And_ChangePincode -->
+      <class name="revampTestCase.SS_Checkout_Private_Verify_Credit_Card_Scenario">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_Verify_Credit_Card_Scenario -->
+      <class name="revampTestCase.SS_CartPage_Public_Verify_Pincode_Navigation_From_PDP_To_CheckoutPage">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_Verify_Pincode_Navigation_From_PDP_To_CheckoutPage -->
+      <class name="revampTestCase.SS_Footer_CopyrightsAllRightsReserved_The_Text_Is_Present">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="copyRights"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_CopyrightsAllRightsReserved_The_Text_Is_Present -->
+      <class name="revampTestCase.SS_Header_Public_Verify_TrackOrder_Link_Functionality">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Header_Public_Verify_TrackOrder_Link_Functionality -->
+      <class name="revampTestCase.SS_PdpPage_Private_Verify_ExpressStorePickup_DeliveryOptions">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PdpPage_Private_Verify_ExpressStorePickup_DeliveryOptions -->
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_GiftCard_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Public_Verify_GiftCard_Functionality -->
+      <class name="revampTestCase.SS_PLP_BreadCrumb_And_DefaultContent">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_BreadCrumb_And_DefaultContent -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_StorePickup_HappyPath_CheckOut">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_StorePickup_HappyPath_CheckOut -->
+      <class name="revampTestCase.SS_PLP_Verify_Reg_User_Add_Remove_Wishlist">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_Reg_User_Add_Remove_Wishlist -->
+      <class name="revampTestCase.SS_PDP_Private_Verify_ProductDetails_StyleNotes_BrandInfo_ReturnAndExchange">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Private_Verify_ProductDetails_StyleNotes_BrandInfo_ReturnAndExchange -->
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_EGV_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Private_Verify_EGV_Functionality -->
+      <class name="revampTestCase.SS_HomePage_HeaderValidation">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_HomePage_HeaderValidation -->
+      <class name="revampTestCase.SS_PDP_Private_Verify_DeliveryOptions_SocialShareOption">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Private_Verify_DeliveryOptions_SocialShareOption -->
+      <class name="revampTestCase.SS_PDP_verify_SizeGuide_And_Calculate_size_Functionality">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_verify_SizeGuide_And_Calculate_size_Functionality -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaMyAccountsPage">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaMyAccountsPage -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_GuestUser">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="BeforeSuite"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_GuestUser -->
+      <class name="revampTestCase.SS_ProfilePage_EditAddress_ChangeDefaultAddress">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="Profile"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_ProfilePage_EditAddress_ChangeDefaultAddress -->
+      <class name="revampTestCase.SS_PDP_Private_Verify_WriteAReview_And_AddToWishList">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Private_Verify_WriteAReview_And_AddToWishList -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_On_Sale_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_On_Sale_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Public_Verify_UpdateCart_GiftMessage_DeliveryPincode_RemoveCartItem_Functionality">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_Verify_UpdateCart_GiftMessage_DeliveryPincode_RemoveCartItem_Functionality -->
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_GiftCard_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Private_Verify_GiftCard_Functionality -->
+      <class name="revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingCod">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingCod -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Department_and_Search_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_Department_and_Search_Functionality -->
+      <class name="revampTestCase.SS_CheckOut_RegisterAtCheckout_And_Validate_Default_Address_Addition">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_RegisterAtCheckout_And_Validate_Default_Address_Addition -->
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_NetBanking_Functionality">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Private_Verify_NetBanking_Functionality -->
+      <class name="revampTestCase.SS_ProfilePage_Multiple_Address_Only_SingleDefaultAddress">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="Profile"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_ProfilePage_Multiple_Address_Only_SingleDefaultAddress -->
+      <class name="revampTestCase.SS_Checkout_Private_Verify_Happy_Path_CheckOut">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_Verify_Happy_Path_CheckOut -->
+      <class name="revampTestCase.SS_Public_Verify_HomePage_Banners">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Public_Verify_HomePage_Banners -->
+      <class name="revampTestCase.SS_PLP_Verify_BreadCrumb">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_BreadCrumb -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Debit_Card_Scenario">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_Debit_Card_Scenario -->
+      <class name="revampTestCase.SS_FOOTER_VERIFY_EXPRESSTORE_And_FAQ">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FOOTER_VERIFY_EXPRESSTORE_And_FAQ -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_ViaMyAccountsPage">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_ViaMyAccountsPage -->
+      <class name="revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingEGV">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_AlreadyLoginUser_OrderUsingEGV -->
+      <class name="revampTestCase.SS_Footer_CookieAndPrivacyPolicy_Verify_The_Link_Is_Clickable">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_CookieAndPrivacyPolicy_Verify_The_Link_Is_Clickable -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Direct_Checkout_From_MiniCart">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_Direct_Checkout_From_MiniCart -->
+      <class name="revampTestCase.SS_CartPage_Public_Verify_StoreSelected_From_PDP_To_CheckoutPage">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_Verify_StoreSelected_From_PDP_To_CheckoutPage -->
+      <class name="revampTestCase.SS_PLP_Verify_Clear_Refinements_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_Clear_Refinements_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Public_verify_Default_StorePickup_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Public_verify_Default_StorePickup_Functionality -->
+      <class name="revampTestCase.SS_PDP_Public_Verify_DeliveryOptions_SocialShareOption">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Public_Verify_DeliveryOptions_SocialShareOption -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaFooter">
+        <methods>
+          <include name="BeforeSuite"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_AddToBagFCC_ViaFooter -->
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_NetBanking_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Public_Verify_NetBanking_Functionality -->
+      <class name="revampTestCase.SS_MacBeautyServices_Booking">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_MacBeautyServices_Booking -->
+      <class name="revampTestCase.SS_HomePage_Public_Verify_MainMenu_ToolTip">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_HomePage_Public_Verify_MainMenu_ToolTip -->
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_EGV_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Public_Verify_EGV_Functionality -->
+      <class name="revampTestCase.SS_Header_Public_Verify_StoreLocatore_Link_Functionality">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Header_Public_Verify_StoreLocatore_Link_Functionality -->
+      <class name="revampTestCase.SS_ProfilePage_Change_Password_Verify_Fields_and_Buttons">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="Profile"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_ProfilePage_Change_Password_Verify_Fields_and_Buttons -->
+      <class name="revampTestCase.SS_Footer_PolicyRelated_Verify_All_Links_Are_Clickable">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_PolicyRelated_Verify_All_Links_Are_Clickable -->
+      <class name="revampTestCase.SS_HomePage_Public_Verify_NewsLetterSubscribe_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_HomePage_Public_Verify_NewsLetterSubscribe_Functionality -->
+      <class name="revampTestCase.SS_PLP_Verify_DeliveryType_Filter_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_DeliveryType_Filter_Functionality -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Credit_Card_Scenario">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_Credit_Card_Scenario -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_Happy_Path_CheckOut">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_Happy_Path_CheckOut -->
+      <class name="revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_ViaFooter">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="BeforeSuite"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_FCC_Private_Verify_QuickBuyFCC_ViaFooter -->
+      <class name="revampTestCase.SS_PLP_Verify_LoadMore_Link_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_LoadMore_Link_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Private_Verify_CartPage_MoveToWishlist_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Private_Verify_CartPage_MoveToWishlist_Functionality -->
+      <class name="revampTestCase.SS_Forgot_Password">
+        <methods>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Forgot_Password -->
+      <class name="revampTestCase.EmailTrigger">
+        <methods>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- revampTestCase.EmailTrigger -->
+      <class name="revampTestCase.SS_Footer_TermsOfUse_Verify_The_Link_Is_Clickable">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_TermsOfUse_Verify_The_Link_Is_Clickable -->
+      <class name="revampTestCase.SS_Footer_FirstCitizenRelated_Verify_All_Links_Are_Clickable">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="main"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_FirstCitizenRelated_Verify_All_Links_Are_Clickable -->
+      <class name="revampTestCase.SS_CheckOut_Public_Verify_Wallets_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Public_Verify_Wallets_Functionality -->
+      <class name="revampTestCase.SS_ProfilePage_AddMultipleAddress">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_ProfilePage_AddMultipleAddress -->
+      <class name="revampTestCase.SS_CheckOut_Private_Verify_Signout_Flow_And_Logo">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CheckOut_Private_Verify_Signout_Flow_And_Logo -->
+      <class name="revampTestCase.SS_Order_Confirmation_Verify_Complete_Your_Profile_Popup">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Order_Confirmation_Verify_Complete_Your_Profile_Popup -->
+      <class name="revampTestCase.SS_Account_Registration_Functionality">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Account_Registration_Functionality -->
+      <class name="revampTestCase.SS_CartPage_Private_Verify_Cart_Page_Default_Functionality">
+        <methods>
+          <include name="main"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_CartPage_Private_Verify_Cart_Page_Default_Functionality -->
+      <class name="revampTestCase.SS_Footer_DelightfulPrograms_ReachUs_And_FollowUs">
+        <methods>
+          <include name="main"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Footer_DelightfulPrograms_ReachUs_And_FollowUs -->
+      <class name="revampTestCase.SS_PersonalShopper_Booking">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="setSnapShotFolder"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PersonalShopper_Booking -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Brand_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Brand_Functionality -->
+      <class name="revampTestCase.SS_PDP_Private_Verify_Page_Related_Functional_Validation_Part1">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Private_Verify_Page_Related_Functional_Validation_Part1 -->
+      <class name="revampTestCase.SS_Checkout_Public_Verify_All_Payment_Options_And_Its_Attributes">
+        <methods>
+          <include name="setSnapShotFolder"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Public_Verify_All_Payment_Options_And_Its_Attributes -->
+      <class name="revampTestCase.SS_Checkout_Private_Coupon_Code_Functionality">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="main"/>
+          <include name="BeforeMethod"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_Checkout_Private_Coupon_Code_Functionality -->
+      <class name="revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Size_Functionality">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="setSnapShotFolder"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PLP_Verify_PrimaryFilter_Select_Size_Functionality -->
+      <class name="revampTestCase.SS_PDP_Public_Verify_Page_Related_Functional_Validation_Part1">
+        <methods>
+          <include name="BeforeMethod"/>
+          <include name="afterMethod"/>
+          <include name="main"/>
+        </methods>
+      </class> <!-- revampTestCase.SS_PDP_Public_Verify_Page_Related_Functional_Validation_Part1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
